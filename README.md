@@ -102,17 +102,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nnknipuni&theme=nord&no-frame=true&no-bg=true" alt="nnknipuni" />
   </a>
 </p>
-
-[![Nipuni's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nnknipuni&theme=tokyonight)](https://git.io/praveenscience)
+<br><br>
 
 | ![Nipuni's github stats](https://github-readme-stats.vercel.app/api?username=nnknipuni&show_icons=true&theme=tokyonight) | ![Nipuni's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nnknipuni&theme=tokyonight) |
 | --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnknipuni&theme=tokyonight) |  ![Github Stars](https://github-readme-stats.vercel.app/api?username=nnknipuni&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnknipuni&theme=tokyonight) |
-| --- |
 
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=nnknipuni&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-| --- |
 
 
 
