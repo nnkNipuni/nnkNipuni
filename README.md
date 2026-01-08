@@ -13,8 +13,9 @@
 </div><br>
 
 - 🏫: I am an undergraduate at Sri Lanka Institute of Information Technology
-- 📧 **Reach out to me:**  
-  [Send me an email](mailto:nipunikahandawa0801@gmail.com)
+<li>
+<p>📫 How to reach me <strong><a href="mailto:info@akhilgkrishnan.me">info@akhilgkrishnan.me</a></strong></p>
+</li>
 - :nerd_face: Fake it until you make it
 
 <br>
