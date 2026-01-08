@@ -13,8 +13,8 @@
 </div><br>
 
 - 🏫: I am an undergraduate at Sri Lanka Institute of Information Technology
-📧 **Feel free to reach out:**  
-[![Email](https://img.shields.io/badge/Email-nipuni-AA336A?style=plastic)](mailto:nipunikahandawa0801@gmail.com)
+- 📧 **Reach out to me:**  
+  [Send me an email](mailto:nipunikahandawa0801@gmail.com)
 - :nerd_face: Fake it until you make it
 
 <br>
