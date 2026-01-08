@@ -12,9 +12,20 @@
     <img alt="Promoted to Senior Programmer GIF" width="200px" src="https://i.imgur.com/OOpRj.gif" style="display: block; margin: 0 auto;">
 </div><br>
 
-- 🏫: I am an undergraduate at Sri Lanka Institute of Information Technology
+<div style="
+  background: linear-gradient(135deg, #fde2e4, #fadadd);
+  padding: 18px 22px;
+  border-radius: 14px;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #3a3a3a;
+  width: fit-content;
+">
 
-- :nerd_face: Fake it until you make it
+🎓 <b>An undergraduate at : Sri Lanka Institute of Information Technology</b><br>
+✨ <i>Fake it until you make it</i>
+
+</div>
 
 <br>
 <h2>🚀 Languages and Tools I Use</h2>
